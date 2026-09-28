@@ -43,6 +43,8 @@ Sử dụng các node trong luồng (Flow) Node-RED:
     "msg": "thành công",
     "dssv": [
       {"name": "Cốp", "money": 123},
-      {"name": "David", "money": 456}
+      {"name": "David", "money": 456},
+      {"name": "Nguyễn Hữu Nhật Minh", "money": 999},
+      
     ]
   }
